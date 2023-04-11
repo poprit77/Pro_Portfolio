@@ -29,7 +29,7 @@ export const Resume = () => {
       textAlign: "center",
       justifyContent: "center",
       marginLeft: "auto",
-      marginRight: "auto",Z
+      marginRight: "auto",
 
     },
     btn: {
