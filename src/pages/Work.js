@@ -93,7 +93,7 @@ export const Work = () => {
                   />
                 </a>{" "}
                 <a
-                  href="https://limitless-sea-80342.herokuapp.com/"
+                  href="https://morralytics.github.io/Yoda-Translator/"
                   rel="noreferrer"
                   target="_blank"
                 >
