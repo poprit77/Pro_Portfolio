@@ -19,7 +19,7 @@ This is an ever evolving portfolio of my technical skills. As I grow and learn I
 ## Installation 
 
 Github repository: https://github.com/poprit77/Pro_Portfolio<br />
-Live Portfolio deployment: comming soon
+Live Portfolio deployment: https://petersporfolio.netlify.app/
 
 ## Usage
 Enjoy the creative process behind my portfolio and stay in touch with new developments and knowledge on Web Development.
@@ -30,4 +30,4 @@ Technologies: HTML, CSS, Javascript, React.js <br>
 NPM Packages: React.js, React Router, React Bootstrap, Emailjs, Font Awesome, React IFrame, dotenv, React Fullscreen
 
 ## Developer
-Nick Morris https://github.com/poprit77 <br>
+Peter Ataras https://github.com/poprit77 <br>

@@ -15,9 +15,8 @@ export const Resume = () => {
 
   const downloadFile = () => {
     window.location.href =
-      "https://docs.google.com/document/d/1f6m0iK4rPhf38I5qV-LvjHViySmuN8cEsvKbaSmEqDY/export?format=pdf";
+      "https://docs.google.com/document/d/e/2PACX-1vTGUPoqkKyqFYDJg4G439Cd4PvywVUpV-TQpx6e_89KehUzg2rMt7zs_UJrxNa7mhg1EQUHejal-seU/pub";
   };
-
   const styles = {
     background: {
       backgroundColor: "#212529",
