@@ -2,6 +2,8 @@ import React from "react";
 import { Container } from "react-bootstrap";
 import BG from "../IMG-2650.png";
 import PP from "../ProfilePicture.jpg";
+import FullHeight from "react-full-height";
+
 
 export const Home = () => {
   const styles = {
@@ -44,7 +46,7 @@ export const Home = () => {
     },
   };
   return (
-    <div style={styles.backgroundImage}>
+    <FullHeight canExceed style={styles.backgroundImage}>
       <Container style={{height: "200vh"}}>
         <div
           style={{
@@ -79,12 +81,11 @@ export const Home = () => {
             use! As I work with code I find every "problem" is not a problem,
             but a challenge and an opportunity to grow and learn. Chasing these
             challenges is something I have come to enjoy very much, a reaction I
-            was not expecting whem I first started coding. As you explore my
+            was not expecting when I first started coding. As you explore my
             website I hope you are able to see not only some examples of my 
             previous work, but also my life outside web development.
           </p>
         </div>
       </Container>
-    </div>
-  );
+      </FullHeight>  );
 };
